@@ -1,17 +1,17 @@
-![Example Image](./public/img/readme-banner.png)
+![Example Image](./public/projectImg.png)
 
 # CV-Builder
 Online Curriculum Vitae builder in React!<br>
 
-[Live Demo](https://cv-builder-ten-sigma.vercel.app/) ✨
+[Live Demo](https://react-js-cv-generator.vercel.app/) ✨
 
 ## Features
 - Multiple sections for informations
-- Different CV layouts
-- Different fonts & colors
+- Download and Print buttons
+- Live preview of CV
 
 **🧭 Possible Future Implementations**
-- Download CV Button (Which is like the most important thing missing)
+- Section for uploading a picture
 
 ## 💻 Built With
 ![javascript](https://skillicons.dev/icons?i=react,js,html,css&perline=10)
