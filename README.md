@@ -1,8 +1,17 @@
-# React + Vite
+![Example Image](./public/img/readme-banner.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# CV-Builder
+Online Curriculum Vitae builder in React!<br>
 
-Currently, two official plugins are available:
+[Live Demo](https://cv-builder-ten-sigma.vercel.app/) ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Multiple sections for informations
+- Different CV layouts
+- Different fonts & colors
+
+**🧭 Possible Future Implementations**
+- Download CV Button (Which is like the most important thing missing)
+
+## 💻 Built With
+![javascript](https://skillicons.dev/icons?i=react,js,html,css&perline=10)
